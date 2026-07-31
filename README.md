@@ -19,7 +19,7 @@
 
 AI-powered multimodal behavioral intelligence platform that estimates **behavioral confidence** in real time by analyzing observable human signals instead of attempting to predict emotions, personality, or psychological states.
 
-Unlike conventional "emotion recognition" systems, VANTAGE focuses on measurable behavioral consistency across multiple modalities.
+Unlike conventional "emotion recognition" systems, It focuses on measurable behavioral consistency across multiple modalities.
 
 The system combines:
 
@@ -32,11 +32,11 @@ into a single interpretable **Behavioral Readiness Index**, providing users with
 
 ---
 
-# Why VANTAGE?
+# Why It?
 
 Current AI interview tools often rely on emotion detection or black-box personality prediction, both of which are difficult to justify scientifically.
 
-VANTAGE follows a different philosophy.
+It follows a different philosophy.
 
 Instead of asking:
 
@@ -91,7 +91,7 @@ This makes the system:
 | ✋ Gesture | Smoothness & tremble detection | 20% |
 | 🧠 Engagement | Face visibility & engagement | 15% |
 
-If the microphone is unavailable, VANTAGE automatically switches to a three-signal fusion strategy.
+If the microphone is unavailable, It automatically switches to a three-signal fusion strategy.
 
 ---
 
@@ -160,7 +160,7 @@ When audio is unavailable:
 
 ## 🎙 Speech Analysis
 
-Rather than speech-to-text, VANTAGE analyzes:
+Rather than speech-to-text, It analyzes:
 
 - RMS Energy
 - Pause Density
@@ -213,7 +213,7 @@ Brief occlusions are ignored to reduce false positives.
 # Project Structure
 
 ```text
-vantage/
+It/
 
 ├── app.py
 ├── core/
@@ -247,9 +247,9 @@ vantage/
 Clone the repository
 
 ```bash
-git clone https://github.com/your-username/vantage.git
+git clone https://github.com/your-username/It.git
 
-cd vantage
+cd It
 ```
 
 Install dependencies
@@ -270,7 +270,7 @@ MediaPipe models are downloaded automatically during the first execution.
 
 # Responsible AI
 
-VANTAGE is intentionally designed **not** to:
+It is intentionally designed **not** to:
 
 - Detect emotions
 - Predict personality
