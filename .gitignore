@@ -1,0 +1,19 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# MediaPipe models (auto-downloaded at runtime)
+models/*.task
+
+# Session data
+data/history.json
