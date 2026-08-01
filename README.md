@@ -32,6 +32,7 @@ into a single interpretable **Behavioral Readiness Index**, providing users with
 
 ---
 
+
 # Why It?
 
 Current AI interview tools often rely on emotion detection or black-box personality prediction, both of which are difficult to justify scientifically.
