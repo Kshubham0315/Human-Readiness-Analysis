@@ -3,17 +3,7 @@
 
 ### AI-Powered Multimodal Behavioral Readiness Analysis
 
-*Estimating behavioral confidence through observable human signals — not emotions.*
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-Computer%20Vision-orange)
-![Streamlit](https://img.shields.io/badge/Streamlit-Web%20Dashboard-red)
-![OpenCV](https://img.shields.io/badge/OpenCV-Real--Time-green)
-![License](https://img.shields.io/badge/License-MIT-success)
-
-</div>
-
----
 
 # Overview
 
